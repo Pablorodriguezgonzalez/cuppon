@@ -1,0 +1,66 @@
+/* resetear los estilos generales */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.bg-verde {
+  background-color: #28a745;
+}
+
+.texto_verde {
+  color: #28a745;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500px;
+  font-style: normal;
+  font-size: 20px;
+}
+
+.texto_gris {
+  color: #707070;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300px;
+  font-style: normal;
+  font-size: 16px;
+  align-self: flex-end;
+}
+
+.texto_titulo {
+  color: #212529;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300px;
+  font-style: normal;
+  font-size: 20px;
+}
+
+.texto_vendedor {
+  color: #707070;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300px;
+  font-style: normal;
+  font-size: 16px;
+}
+
+.texto_direccion {
+  color: #707070;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300px;
+  font-style: normal;
+  font-size: 13px;
+}
+
+.texto_blanco {
+  color: #f8f9fa;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.imagen_footer {
+  width: 82px;
+}
